@@ -1,20 +1,33 @@
 === Empty Categories In Widgets ===
 Contributors: pawaryogesh1989, clarionwpdeveloper
-Tags: Show Empty Categories In Widgets, display empty categories, empty categories, wordpress empty categories, wordpress show empty categories, empty categories in widget, widget empty categories, show empty categories in Widget, widget show empty categories, get empty categories.
-Requires at least: 3.0.1
-Tested up to: 4.9.8
-Stable tag: 4.9
+Tags: empty categories, widget categories, widget empty categories, wordpress empty categories, wordpress show empty categories, empty categories in widget, show empty categories in Widget, widget show empty categories, get empty categories.
+Requires at least: 4.6 or higher
+Tested up to: 5.2.4
+Stable tag: 5.0
+PHP Version: 5.6 or higher
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Use this plugin to display empty categories in widgets.
+Use this plugin to display empty categories in the Category widget.
 
 == Description ==
  
-This plugin Shows Empty Categories In Widgets.
+This plugin Shows Empty Categories In the category Widget.
 
 = Details =
 
+* Shows Empty Categories In Widgets.
+
+== Changelog ==
+
+= 2.1.0 =
+* Compatibility changes to make it work with latest WordPress version.
+
+= 2.0.0 =
+* Compatibility changes to make it work with latest WordPress version.
+* Code changes for PHP 7.2 version.
+
+= 1.0.0 =
 * Shows Empty Categories In Widgets.
 
 == Installation ==
