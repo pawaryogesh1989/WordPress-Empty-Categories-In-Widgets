@@ -3,7 +3,7 @@
   Plugin Name: Empty Categories In Widgets
   Plugin URI: http://www.clariontech.com
   Description: Empty Categories In Widgets
-  Version: 2.1.0
+  Version: 2.2.0
   Author: Yogesh Pawar, Clarion Technologies
   Author URI: http://www.clariontech.com
   License: GPLv2 or later
